@@ -1,6 +1,8 @@
 Welcome to cheali-charger!
 ==========================
 
+https://www.justinmklam.com/posts/2017/10/vscode-debugger-setup/
+
 This project is an alternative firmware for a variety of lipo chargers,  
 see [hardware.](README.md#hardware)
 
